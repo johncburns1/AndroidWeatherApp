@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">WeatherInfoApplication</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="base_url">http://api.openweathermap.org</string>
+    <string name="path">data/2.5/weather</string>
+    <string name="img_path">img/w</string>
+    <string name="api_key">eacaa6c68814c460cbbd539464dc58f3</string>
+    <string name="city_name">City Name</string>
+    <string name="country_name">Country Name</string>
+    <string name="delete">Delete</string>
+    <string name="metric">metric</string>
+    <string name="dialog_title">Enter The Name Of A City</string>
+    <string name="dialog_hint">Enter City</string>
+    <string name="save">Save</string>
+    <string name="empty_case" />
+    <string name="field_blank_error_msg">Field Cannot Be Blank</string>
+    <string name="request_failed">Request Failed</string>
+    <string name="peengee">.png</string>
+    <string name="kmph">km/h</string>
+    <string name="perct">%</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="menu_info">Information from http://api.openweathermap.org</string>
+    <string name="menu_title">Weather Information Application</string>
+    <string name="about_msg">This application provides weather information about most major cities in the world, pulling live information from http://api.openweathermap.org.</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="image_url_base">http://openweathermap.org/img/w/</string>
+    <string name="data">Data</string>
+    <string name="read_time">Read Time:</string>
+</resources>
